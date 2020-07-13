@@ -12,7 +12,7 @@ namespace Sphinx
       Answer = answer;
     }
 
-    public bool CheckAnswer(string guess) 
+    public void CheckAnswer(string guess) 
     {
       if (guess == Answer)
       {
