@@ -1,0 +1,11 @@
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\obj\Debug\netcoreapp2.2\Sphinx.csprojAssemblyReference.cache
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\obj\Debug\netcoreapp2.2\Sphinx.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\obj\Debug\netcoreapp2.2\Sphinx.AssemblyInfoInputs.cache
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\obj\Debug\netcoreapp2.2\Sphinx.AssemblyInfo.cs
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\bin\Debug\netcoreapp2.2\Sphinx.deps.json
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\bin\Debug\netcoreapp2.2\Sphinx.runtimeconfig.json
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\bin\Debug\netcoreapp2.2\Sphinx.runtimeconfig.dev.json
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\bin\Debug\netcoreapp2.2\Sphinx.dll
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\bin\Debug\netcoreapp2.2\Sphinx.pdb
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\obj\Debug\netcoreapp2.2\Sphinx.dll
+C:\Users\Jeff\desktop\epicodus\wk8\sphinx\obj\Debug\netcoreapp2.2\Sphinx.pdb

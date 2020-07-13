@@ -11,9 +11,8 @@ namespace Sphinx
       Riddle riddle3 = new Riddle("30 white horses on a red hill, first they champ, then they stamp then they stand still", "Teeth");
 
       Console.WriteLine("Guess the answer to the riddle to avoid being eaten!");
-      // createQuestion()
 
-      public void CreateQuestion()
+      void CreateQuestion()
       {
         Riddle currentRiddle = riddle3;
         
@@ -21,7 +20,8 @@ namespace Sphinx
         string userAnswer = Console.ReadLine();
         currentRiddle.CheckAnswer(userAnswer);
       }
+      
+      CreateQuestion();
     }
-
   }
 }
