@@ -1,24 +1,27 @@
 using System;
-using System.Collection.Generic;
 
 namespace Sphinx 
 {
-  //   public string MakeModel { get; set; }
-  //   public int Price { get; set; }
-  //   public int Miles { get; set; }
-
-  //   // Constructor
-
-  //   public Car(string makeModel, int price, int miles)
-  //   {
-  //       MakeModel = makeModel;
-  //       Price = price;
-  //       Miles = miles;
-  //   }
     public class Riddle 
   {
     public string Question { get; set; }
     public string Answer { get; set; }
-  
+    public Riddle(string question, string answer)
+    {
+      Question = question;
+      Answer = answer;
+    }
+
+    public bool CheckAnswer(string guess) 
+    {
+      if (guess == Answer)
+      {
+        Console.WriteLine(guess + " is the correct answer. Congratulations, you may pass.");
+      }
+      else
+      {
+        Console.WriteLine(guess + " is incorrect, prepare to be eaten.");
+      }
+    }
   }  
 }
